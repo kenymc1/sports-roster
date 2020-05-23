@@ -1,0 +1,92 @@
+{
+  "player1": {
+    "imageUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203110.png",
+    "name": "Draymond Green",
+    "position": "FORWARD",
+    "uid": "4RCzhnCJyxZl3fOLA1d4IX2FMEO2"
+  },
+  "player2": {
+    "imageUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627814.png",
+    "name": "Damion Lee",
+    "position": "GUARD-FORWARD",
+    "uid": "4RCzhnCJyxZl3fOLA1d4IX2FMEO2"
+  },
+  "player3": {
+    "imageUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626172.png",
+    "name": "Kevon Looney",
+    "position": "FORWARD",
+    "uid": "4RCzhnCJyxZl3fOLA1d4IX2FMEO2"
+  },
+  "player4": {
+    "imageUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628539.png",
+    "name": "Mychal Mulder",
+    "position": "Guard",
+    "uid": "4RCzhnCJyxZl3fOLA1d4IX2FMEO2"
+  },
+  "player5": {
+    "imageUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629672.png",
+    "name": "Eric Paschall",
+    "position": "FORWARD",
+    "uid": "4RCzhnCJyxZl3fOLA1d4IX2FMEO2"
+  },
+  "player6": {
+    "imageUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629673.png",
+    "name": "Jordan Poole",
+    "position": "Guard",
+    "uid": "4RCzhnCJyxZl3fOLA1d4IX2FMEO2"
+  },
+  "player7": {
+    "imageUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626184.png",
+    "name": "Chasson Randle",
+    "position": "Guard",
+    "uid": "4RCzhnCJyxZl3fOLA1d4IX2FMEO2"
+  },
+  "player8": {
+    "imageUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629346.png",
+    "name": "Alen Smailagic",
+    "position": "FORWARD",
+    "uid": "4RCzhnCJyxZl3fOLA1d4IX2FMEO2"
+  },
+  "player9": {
+    "imageUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202691.png",
+    "name": "Klay Thompson",
+    "position": "GUARD",
+    "uid": "4RCzhnCJyxZl3fOLA1d4IX2FMEO2"
+  },
+  "player10": {
+    "imageUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629308.png",
+    "name": "Juan Anderson",
+    "position": "FORWARD",
+    "uid": "4RCzhnCJyxZl3fOLA1d4IX2FMEO2"
+  },
+  "player11": {
+    "imageUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203952.png",
+    "name": "Andrew Wiggins",
+    "position": "FORWARD",
+    "uid": "4RCzhnCJyxZl3fOLA1d4IX2FMEO2"
+  },
+  "player12": {
+    "imageUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627733.png",
+    "name": "Dragan Bender",
+    "position": "FORWARD",
+    "uid": "4RCzhnCJyxZl3fOLA1d4IX2FMEO2"
+  },
+  "player13": {
+    "imageUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629065.png",
+    "name": "Ky Bowman",
+    "position": "GUARD",
+    "uid": "4RCzhnCJyxZl3fOLA1d4IX2FMEO2"
+  },
+  "player14": {
+    "imageUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627737.png",
+    "name": "Marquese Chriss",
+    "position": "FORWARD",
+    "uid": "4RCzhnCJyxZl3fOLA1d4IX2FMEO2"
+  },
+  "player15": {
+    "imageUrl": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201939.png",
+    "name": "Stephen Curry",
+    "position": "GUARD",
+    "uid": "4RCzhnCJyxZl3fOLA1d4IX2FMEO2"
+  }
+}
