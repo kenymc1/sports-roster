@@ -21,7 +21,8 @@ class MyNavbar extends React.Component {
     return (
       <div className="MyNavbar">
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
-          <a className="navbar-brand" href="#">Golden State</a>
+          <a className="navbar-brand" href="#"><img className="logo" src="https://www.netclipart.com/pp/m/121-1216635_golden-state-warriors-logos-warriors-golden-state-logos.png" alt="Team Logo"/></a>
+          <h1>Golden State Warriors</h1>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
