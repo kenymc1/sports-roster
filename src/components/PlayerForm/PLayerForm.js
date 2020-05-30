@@ -22,7 +22,7 @@ class PlayerForm extends React.Component {
     const { player } = this.props;
     if (player.name) {
       this.setState({
-        playerName: player.name, playerImageUrl: player.imageUrl, playerPosition: player.position, isEditing: true,
+        playerImageUrl: player.imageUrl, playerName: player.name, playerPosition: player.position, isEditing: true,
       });
     }
   }

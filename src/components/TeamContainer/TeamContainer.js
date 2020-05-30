@@ -13,7 +13,7 @@ class TeamContainer extends React.Component {
   state = {
     players: [],
     formOpen: false,
-    editBoard: {},
+    editPlayer: {},
   }
 
   getAllPlayers = () => {
