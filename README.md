@@ -1,3 +1,13 @@
+# README.md
+
+## Description
+use this appication to select pizza topping s and get a final cost for your pizza ceation.
+
+## Technology Used
+
+## Screenshots
+![]
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
